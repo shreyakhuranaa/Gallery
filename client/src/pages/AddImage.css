@@ -1,0 +1,33 @@
+.add-image-container {
+    background-color: #b56a6a; /* Light grey background */
+    padding: 30px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .add-image-form {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White background for the form */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-image-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .add-image-form .btn {
+    width: 100%;
+  }
+  
+  .back-home-button {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 500px;
+  }
+  
